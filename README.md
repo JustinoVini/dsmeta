@@ -22,8 +22,8 @@ Enjoy.
 
 Vinicius Justino
 
-## Link do site no netlify
-https://dsmeta-vini.netlify.app/
+## Link do site netlify
+https://www.netlify.com/
 
 ## Ferramentas utilizadas:
 
