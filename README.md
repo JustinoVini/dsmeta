@@ -27,11 +27,11 @@ https://www.netlify.com/
 
 ## Ferramentas utilizadas:
 
--Windows 10 pro x64
--NodeJs version 16.15.0
--Java Zulu JDK 17.0.3
--Springboot 2.7.1
--ReactJs/yarn 1.22.19
--Intellij IDE 2022
--POSTMAN
--Vistual Studio Code
+- Windows 10 pro x64
+- NodeJs version 16.15.0
+- Java Zulu JDK 17.0.3
+- Springboot 2.7.1
+- ReactJs/yarn 1.22.19
+- Intellij IDE 2022
+- POSTMAN
+- Vistual Studio Code
